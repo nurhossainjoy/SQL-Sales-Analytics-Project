@@ -165,7 +165,7 @@ Ranked products based on profitability.
 MD Nur Hossain Joy
 
 LinkedIn:
-(Add your LinkedIn)
+https://www.linkedin.com/in/md-nur-hossain-joy-0b0bb9190/
 
 GitHub:
 https://github.com/nurhossainjoy
